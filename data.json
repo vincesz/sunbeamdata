@@ -1,0 +1,31 @@
+{
+    "carlist": [
+      {
+        "carname": "Suzuki Swift",
+        "category": "Budget",
+        "persons": 4,
+        "suitcases": 1,
+        "image": "images/suzuki.png",
+        "dayPrice": 100,
+        "priceForTrip": 0
+      },
+      {
+        "carname": "Mazda 3",
+        "category": "Standard",
+        "persons": 5,
+        "suitcases": 3,
+        "image": "images/mazda.png",
+        "dayPrice": 160,
+        "priceForTrip": 0
+      },
+      {
+        "carname": "Citröen Grand C4 Picasso",
+        "category": "Minivan",
+        "persons": 7,
+        "suitcases": 4,
+        "image": "images/citroen.png",
+        "dayPrice": 205,
+        "priceForTrip": 0
+      }
+    ]
+  }
